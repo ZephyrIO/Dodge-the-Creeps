@@ -1,7 +1,7 @@
 # Dodge the Creeps
 
 This is a simple game where you must avoid the enemies for as long as possible.
-This project was built from a tutorial within the Godot documentation.
+This project was built from a tutorial within the Godot documentation, which can be found [here](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html).
 
 ## Gameplay Demo
 
