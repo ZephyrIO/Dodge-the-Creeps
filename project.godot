@@ -12,8 +12,8 @@ config_version=5
 
 config/name="Dodge The Creeps 2D"
 run/main_scene="res://Main.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
-config/icon="res://icon.svg"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
+boot_splash/show_image=false
 
 [display]
 
